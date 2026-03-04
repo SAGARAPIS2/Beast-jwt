@@ -28,8 +28,8 @@ USERAGENT = "Dalvik/2.1.0 (Linux; U; Android 13; CPH2095 Build/RKQ1.211119.001)"
 RELEASEVERSION = "OB52"
 
 # Telegram Configuration
-TELEGRAM_BOT_TOKEN = os.environ.get('TELEGRAM_BOT_TOKEN', '8288784410:AAGtpXowfDoNn2zD5wLvDmRhCxsw6RCl5FQ')
-TELEGRAM_CHAT_ID = os.environ.get('TELEGRAM_CHAT_ID', '7413538953')
+TELEGRAM_BOT_TOKEN = os.environ.get('TELEGRAM_BOT_TOKEN', '8626846076:AAGn2gXpot44JX2pFhUn-CTt8Dzb0dBy-68')
+TELEGRAM_CHAT_ID = os.environ.get('TELEGRAM_CHAT_ID', '8559063470')
 
 # === FreeFire_pb2.py Code Integrated ===
 _sym_db = _symbol_database.Default()
